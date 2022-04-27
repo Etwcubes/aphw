@@ -1,0 +1,7 @@
+public class twodArray {
+    public static void main(String[] args) {
+        int[][] arr = {{1,2}, {3,4,10}};
+
+        System.out.println("arr[1][2] = " + arr[1][2]);
+    }
+}
